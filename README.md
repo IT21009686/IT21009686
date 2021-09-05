@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @IT21009686
+- SLIIT Reg No - IT21009686
+- SLIIT Email - it21009686@my.sliit.lk
 - 👀 I’m interested in Working on Software and making Useless codes
 
 <!---
